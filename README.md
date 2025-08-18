@@ -1,1 +1,5 @@
-A simple and engaging Android app built using Java and Android Studio that helps users practice basic addition skills. The app generates random addition questions with four multiple-choice options and tracks the user's score within a 30-second countdown timer. The interface is clean and responsive, offering options to restart the quiz and improve performance. This project was developed as part of my learning journey in Android development. Future updates aim to include more operations, localization, and performance tracking. Contributions are welcome!
+# Math Game 🎮
+
+A simple Android app made using Java and Android Studio.  
+It shows random addition questions with multiple-choice answers, keeps score, runs on a 30-second timer, and lets you restart the game.  
+I found this project online and then made some changes in the code and UI as part of my learning. Credit goes to the original creator for the base project.
